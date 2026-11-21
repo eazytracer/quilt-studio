@@ -3,5 +3,5 @@
    Leave it empty and the app still works, saving in the browser with Backup / Restore.
    The client ID is meant to be public; it's safe to commit. */
 window.QS_CONFIG = {
-  googleClientId: ""
+  googleClientId: "902860611950-7vbjdn7l8lafloikdcpsrcar6usvd53v.apps.googleusercontent.com"
 };
